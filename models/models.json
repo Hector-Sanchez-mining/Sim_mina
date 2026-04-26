@@ -1,4 +1,8 @@
 {
   "units": "mm",
-  "models": []
+  "models": [
+    "Obra02.stl",
+    "Obra01.stl",
+    "Obra03.stl"
+  ]
 }
